@@ -1,2 +1,2 @@
 # IFE-dataV
-百度前端小组IFE-dataV的仓库
+百度学院前端小组IFE-dataV主页
